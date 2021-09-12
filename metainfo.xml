@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="C520E883-CA1B-42B4-840B-3A4D34E25AD6" version="0">
+	<info>
+		<title>2021_09_12_EXAM12CLASSIX</title>
+		<description/>
+	</info>
+	<files index="id21" thumbnail="id17" totalSize="2306447">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/img-1df05ac9f7f945277a7ba15557e92b1069fceb4b.png</file>
+		<file id="id11">data/images/img-22db443a6f162c312a48e0ce9e0514ec9bb8a879.png</file>
+		<file id="id12">data/images/img-340c69acc6ff2f731962c4a3086333ff13d19f91.png</file>
+		<file id="id13">data/images/img-409dfbe5adb50ff15b6e9ed2a731388e78fcf8c6.png</file>
+		<file id="id14">data/images/img-71fc3a692af59dc77e7bf61a9aaf796fbf103269.png</file>
+		<file id="id15">data/ismplayer/app_store2x.png</file>
+		<file id="id16">data/ismplayer/play.svg</file>
+		<file id="id17">data/ismplayer/preview.png</file>
+		<file id="id18">data/ismplayer/style.css</file>
+		<file id="id19">data/ismplayer/style_mini.css</file>
+		<file id="id20">data/player.js</file>
+		<file id="id21">index.html</file>
+		<file id="id22">ismplayer.html</file>
+		<file id="id23">preview.png</file>
+	</files>
+</presentation>
+
